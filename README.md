@@ -6,7 +6,7 @@
 * 具体看不同的网址
 * csdn教程  
   对对对  
-  浅红色文字：<font color="#dd0000">浅红色文字：</font><br /> 
+  < font color=red>color是是是
 ## 二级标题
 * 具体看不同的网址
 * csdn教程  哈哈哈
