@@ -6,7 +6,7 @@
 * 具体看不同的网址
 * csdn教程  
   对对对  
-  < font color=red>color是是是
+  <font color=Blue>我是蓝色</font>
 ## 二级标题
 * 具体看不同的网址
 * csdn教程  哈哈哈
